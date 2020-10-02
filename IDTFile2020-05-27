@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>                                          
+<IDT_TRANSACTIONS>                                                                                                                      
+  <TRANSACTION TYPE="C" CONTRACT_NUMBER="LES-0000001277">                       
+    <CONTRACT_NUMBER>LES-0000001277</CONTRACT_NUMBER>                           
+    <INSURANCE_COMPONENT>-450.34</INSURANCE_COMPONENT>                           
+    <ADMIN_FEE_COMPONENT>-100</ADMIN_FEE_COMPONENT>                            
+    <CUSTOMER_INSURANCE_CHARGE>-550.34</CUSTOMER_INSURANCE_CHARGE>               
+  </TRANSACTION>                                                                                              
+  <TRANSACTION TYPE="Z">                                                        
+    <FILE_CREATION_DATE>20200519</FILE_CREATION_DATE>                           
+    <TRANSACTIONS_COUNT>1</TRANSACTIONS_COUNT>                                 
+    <TOTAL_INSURANCE_COMPONENT>-450.34</TOTAL_INSURANCE_COMPONENT>              
+    <TOTAL_ADMIN_FEE_COMPONENT>-100</TOTAL_ADMIN_FEE_COMPONENT>                   
+    <TOTAL_CUSTOMER_INSURANCE_CHARGE>-550.34</TOTAL_CUSTOMER_INSURANCE_CHARGE>  
+  </TRANSACTION>                                                                
+</IDT_TRANSACTIONS>                                                             
+                                                                                

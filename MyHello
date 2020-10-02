@@ -3,4 +3,8 @@
          System.out.println("Hello Rajesh");
     
     }
+    public static void show(){
+       System.out.println("Hello")
+    }
+
 }
